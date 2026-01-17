@@ -1,27 +1,21 @@
-# Hi, I'm Jay Patel 👋
+# 💫 About Me:
+Hi, I'm Jay Patel 👋<br>Associate DevOps Engineer with hands-on experience in AWS cloud infrastructure, IAM automation, and CI/CD pipelines. Currently working full-time at Wonderlend Hubs, supporting staging and production environments using Infrastructure as Code and automated workflows.<br><br>🚀 What I Work On<br>Automating cloud infrastructure and CI/CD pipelines<br>AWS IAM automation and access management<br>Serverless architectures on AWS<br>Infrastructure as Code using Terraform<br>🛠 Tech Stack<br>Cloud & DevOps: AWS (IAM, EC2, S3, Lambda, API Gateway, DynamoDB, SES), Terraform, Docker, GitLab CI/CD<br>Programming: Python, Shell<br>Systems: Linux, Networking, IAM Security<br><br>📌 Featured Projects<br>🔹 AWS IAM User Provisioning Automation<br>Automated IAM user creation using a JIRA-driven workflow with boto3, Slack, and SES. Reduced manual access provisioning time from hours to minutes with full auditability.<br><br>🔹 DocVault — Secure Serverless Document Vault<br>Serverless document management system built using AWS S3, Lambda, API Gateway, DynamoDB, Terraform, and GitLab CI/CD.<br><br>🔹 Resurge-Net — Risk-Aware Cloud Autoscaling<br>Proactive autoscaling framework combining machine learning and systems design to balance infrastructure cost and SLA reliability.<br><br>📫 Connect with Me<br>LinkedIn: https://www.linkedin.com/in/jay-patel2110
 
-Associate DevOps Engineer with hands-on experience in AWS cloud infrastructure, IAM automation, and CI/CD pipelines. Currently working full-time at Wonderlend Hubs, supporting staging and production environments using Infrastructure as Code and automated workflows.
 
-## 🚀 What I Work On
-- Automating cloud infrastructure and CI/CD pipelines
-- AWS IAM automation and access management
-- Serverless architectures on AWS
-- Infrastructure as Code using Terraform
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-patel2110) 
 
-## 🛠 Tech Stack
-**Cloud & DevOps:** AWS (IAM, EC2, S3, Lambda, API Gateway, DynamoDB, SES), Terraform, Docker, GitLab CI/CD  
-**Programming:** Python, Shell  
-**Systems:** Linux, Networking, IAM Security  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayPatel2110-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JayPatel2110-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPatel2110-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📌 Featured Projects
-### 🔹 AWS IAM User Provisioning Automation
-Automated IAM user creation using a JIRA-driven workflow with boto3, Slack, and SES. Reduced manual access provisioning time from hours to minutes with full auditability.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔹 DocVault — Secure Serverless Document Vault
-Serverless document management system built using AWS S3, Lambda, API Gateway, DynamoDB, Terraform, and GitLab CI/CD.
+---
+[![](https://visitcount.itsvg.in/api?id=JayPatel2110-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔹 Resurge-Net — Risk-Aware Cloud Autoscaling
-Proactive autoscaling framework combining machine learning and systems design to balance infrastructure cost and SLA reliability.
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jay-patel2110
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
